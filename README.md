@@ -39,20 +39,15 @@ Challenge the computer and see if you can outsmart... well, random chance!
 
 ---
 
-## ✨ How to Run Locally
+## 📂 How to Run Locally
 
-# 1. Clone the repository
-git clone https://github.com/your-username/rock-paper-scissors.git
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/tic-tac-toe.git
 
-# 2. Navigate into the project folder
-cd rock-paper-scissors
+# 2. Navigate into the folder
+cd tic-tac-toe
 
-# 3. Open the index.html file in your browser
-start index.html        # For Windows
-# or
-open index.html         # For macOS
-# or
-xdg-open index.html     # For Linux
+# 3. Open index.html in your browser
 
----
 
