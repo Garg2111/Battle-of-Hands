@@ -26,7 +26,6 @@ Challenge the computer and see if you can outsmart... well, random chance!
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your game here)*  
 ![Game Screenshot](./Images/Image.png)
 
 ---
@@ -37,17 +36,6 @@ Challenge the computer and see if you can outsmart... well, random chance!
 - Scissors beats Paper
 - Paper beats Rock
 - Same choices = It's a draw!
-
----
-
-## 🗂️ Project Structure
-📁 rock-paper-scissors/
-│
-├── index.html # Main HTML file
-├── style.css # Styling and animations
-├── script.js # Game logic and interaction
-└── Images/ # Images and screenshots (optional)
-
 
 ---
 
