@@ -43,11 +43,20 @@ Challenge the computer and see if you can outsmart... well, random chance!
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/your-username/Battle-of-Hands.git
 
 # 2. Navigate into the folder
-cd tic-tac-toe
+cd Battle-of-Hands
 
 # 3. Open index.html in your browser
+# For Windows
+start index.html
+
+# For macOS
+open index.html
+
+# For Linux
+xdg-open index.html
+
 
 
